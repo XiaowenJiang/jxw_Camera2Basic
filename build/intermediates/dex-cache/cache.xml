@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-134147b9b99cf3b19220cfc01d4a3d02b7294b55.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-7e68b4f974535db398de284220f0b16951045d5f.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-2d337234c9a85de4de36e6bf9e07ad10039bf79f.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-667fb75588d82a837b291f7e7a425ff29768ff19.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-dddf5ab76b903d060c50cac7cc346ab03352dcea.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-6a6250cf15881a00a5f2527d37d08ef078d5ce16.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-61f8e657b9f3d9154add5394ebe75d121071f7c9.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-18c3a2e05d72e7cd29e046dd3f1134f990bdb059.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-0a7be077b7bf53093b37494531aecc81f101b8c7.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-4e5d394dc769d66c1fe5db0d2779b849e8083d86.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-a06c3f75691f801ab0d3db63d0d98c1b3117d604.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-bf59b177387c512bbfa1eb2ba402b44591121119.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-ab8dd196c68a594b88b737e26ddfd73617aab087.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-cfaa156f61cab76f3e0096d8f16ce9d36be6cba8.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-f9ceaa10ef75403ca1af7357b741d5904b82f699.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-16c94e7474424d87e7b49f20006de6b112ba54bd.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-f1cc21391f5e04e65ad47d6bf05d9e739f27b87e.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-7717ce9893d8cccb6ad0b4d463506a954a73bd2e.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-16e418ca026abfd909b7e5dc14d53fc27f8fb6dc.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-60ab0b39f238d2deaee8911554a33b099aa08059.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-01698434da99ac858c464cd8ca5eea9db16c7a76.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-dc62a06fd6e59529a518bb7de10d704210415553.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-3440f966a1807b49697df1930421f737523d93b8.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-6f7c96a2f38edcdc5c1e63cf5c4c568e1b7a7e2c.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-849b6086622cd9969105acee65034ed0ff81cfe0.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-f50d3a330f79ea69407c7940e1e1cf0828629bcb.jar" />
+    </item>
+    <item
+        jar="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/XiaowenJiang/AndroidStudioProjects/jxw_Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-d23b74c7cf9ea964bc0a72c68c62640df8239fa5.jar" />
+    </item>
+
+</items>
